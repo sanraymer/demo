@@ -55,6 +55,7 @@ This app relies on the **LiDAR scanner**. It is fully compatible with the follow
 
 See the app in action on social media:
 [**View Instagram Demo**](https://www.instagram.com/p/DPppc_UDFv9?img_index=2)
+[**View Youtube Demo**](https://www.youtube.com/watch?v=ThpB-wBac9w)
 
 ---
 
