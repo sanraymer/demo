@@ -8,8 +8,6 @@
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift)](https://developer.apple.com/swift/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-<img src="https://github.com/hefestru/eyes-ios/raw/main/assets/example.jpeg" alt="Eyes App Interface" width="600" style="border-radius: 10px;"/>
-
 <br/>
 
 [![Watch the Demo](https://img.youtube.com/vi/ThpB-wBac9w/0.jpg)](https://www.youtube.com/watch?v=ThpB-wBac9w)
