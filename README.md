@@ -9,6 +9,18 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 <br/>
+<a href="https://hefestru.org/">
+  <img src="https://img.shields.io/badge/Website-hefestru.org-lightgrey?style=flat&logo=google-chrome&logoColor=black" alt="Website">
+</a>
+<a href="https://www.instagram.com/hefestru">
+  <img src="https://img.shields.io/badge/Instagram-%40hefestru-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.youtube.com/@hefestru">
+  <img src="https://img.shields.io/badge/YouTube-%40hefestru-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<br/>
+<br/>
 
 [![Watch the Demo](https://img.youtube.com/vi/ThpB-wBac9w/0.jpg)](https://www.youtube.com/watch?v=ThpB-wBac9w)
 
